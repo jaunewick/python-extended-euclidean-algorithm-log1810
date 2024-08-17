@@ -43,7 +43,7 @@ pipenv install numpy
 ```
 
 ## Utilisation
-1. **Modifier les vecteurs A et B dans le script selon les besoins** :
+1. **Modifier les vecteurs A et B dans le script `epgcd.py; ligne 21` selon les besoins** :
 ```python
 A, B = [1110, 1, 0], [99999, 0, 1]
 ```
@@ -51,4 +51,4 @@ A, B = [1110, 1, 0], [99999, 0, 1]
 ```bash
 python3 epgcd.py
 ```
-3. **Enjoy! :)**
+3. **Enjoy! :) -Daniel Giao**
