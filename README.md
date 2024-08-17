@@ -4,6 +4,9 @@ Un script Python `epgcd.py` qui implémente l'algorithme d'Euclide étendu pour 
 
 Le script affiche également toutes les étapes du processus, ce qui le rend particulièrement utile pour les étudiants du cours LOG1810.
 
+## Résultat
+![epgcd.py output](.img/epgcd_output.png)
+
 ## Prérequis
 - Python 3.x
 - `pip` ou `pipenv` pour la gestion des packages
